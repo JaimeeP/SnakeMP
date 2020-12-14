@@ -1,0 +1,58 @@
+.snakebody0 {background-color: lightgreen; border: black}
+.snakebody1 {background-color: orange; border: black}
+.snakebody2 {background-color: blueviolet; border: black}
+.snakebody3 {background-color: red; border: black}
+.snakebody4 {background-color: royalblue; border: black}
+.snakebody5 {background-color: cyan; border: black}
+.snakebody6 {background-color: pink; border: black}
+.snakebody7 {background-color: yellow; border: black}
+.snakebody8 {background-color: burlywood; border: black}
+.snakebody9{background-color: coral; border: black}
+.snakebody10{background-color: brown; border: black}
+.snakebody11{background-color: darkgreen; border: black}
+.snakehead  {background-color:#3d3d3d; }
+.food  {background-image: url("food.png"); background-repeat: no-repeat; background-position: center; image-rendering: pixelated;}
+
+
+.snakebody {background-color: green; border: black;}
+html, body {
+text-align: center;
+font-family: arial;
+padding: 0;
+margin: 0;
+background-color: peachpuff;
+}
+    
+table {
+border: 0px;
+border-collapse: collapse;
+margin: auto;
+}
+    
+td {
+height: 10px;
+width: 10px;
+min-width: 10px;
+min-height: 10px;
+max-width: 10px;
+max-height: 10px;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+background-color: #84C011;
+}
+
+.snakefood {
+background-color: red;
+}
+
+#Score {
+text-align: center;
+font-family: arial;
+border: 3px solid black;
+border-radius: 0.5em;
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+background-color: grey;
+}
